@@ -5,3 +5,5 @@ Hi! dear
 how are you? 
 are you fine?
 I'm fine, thankyou.
+goodbye
+bye
